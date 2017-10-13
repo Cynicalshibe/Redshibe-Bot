@@ -11,13 +11,13 @@
 		},
 		"description": "[Click here to see this video]({{Url}})",
 		"color": 15258703,
-		"fields": [{
+		"fields": {
 			"name": "Description",
 			"value": "{{Description}}"
-		}],
+		},
 		"footer": {
 			"text": "Created by @WolfgGang1710",
 			"icon_url": "http://i.imgur.com/t2JQM4F.png"
 		}
-	}]
+	}
 }
